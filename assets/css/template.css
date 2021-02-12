@@ -4,6 +4,7 @@
 body{
   background-color: #c3ccdd;
 }
+/*BANNER HEADER*/
 header{
   display: flex;
   justify-content: center;
@@ -23,4 +24,4 @@ header .logo{
   width: 45px;
   height: auto;
   border-radius: 15px;
-}
+}/*FIM DO BANNER HEADER*/
