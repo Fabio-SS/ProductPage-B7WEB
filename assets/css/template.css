@@ -11,14 +11,15 @@ header{
   color: #fff;
   width: 100%;
   height: 55px;
+  padding: 3px;
 }
-header .logo1{
+header .logo{
   flex: 1;
   margin-top: 5px;
   margin-left: 25px;
   color: #ffffff;
 }
-.logo1 img{
+.logo img{
   width: 45px;
   height: auto;
   border-radius: 15px;
